@@ -20,7 +20,7 @@ Este projeto fornece um conjunto de classes base para que sejam implementados te
 a parstir de um conjunto de requisitos detalhados na documentação. O diagrama abaixo apresenta as classes existentes. .
 
 .Diagrama das Classes de Negócio do Sistema Bancário (pacote link:src/main/java/com/sistemabancario/model[model]).
-image::diagrama-classes-model.png[]
+image::relatorio.png[]
 a
 {nbsp} + 
 ,
